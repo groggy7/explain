@@ -1,0 +1,47 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (remove the comment below if using dep)
+#vendor/
+
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+
+# Compiled Go files
+*.6
+*.8
+*.a
+*.o
+
+# Ignored files when working with Go
+.idea/
+*.iml
+*.log
+
+# macOS
+*.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Compiled files for the GoLand IDE
+.idea/
+
+# G
+
